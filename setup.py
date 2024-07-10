@@ -13,7 +13,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     project_urls={
-        "GitHub": "https://github.com/Andre0512/pyhOn",
+        "GitHub": "https://github.com/48mWsPK/pyhOn",
         "PyPI": "https://pypi.org/project/pyhOn",
     },
     license="MIT",
